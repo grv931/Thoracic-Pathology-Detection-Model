@@ -164,4 +164,4 @@ The notebook is designed to run on Kaggle with the competition dataset mounted a
 /kaggle/input/competitions/26-t-1-dl-gen-ainppe-1/
 ```
 
-Kaggle notebook: `24f2002970-notebook-26t1`
+Kaggle notebook: `22f3003274-notebook-26t1`
