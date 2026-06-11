@@ -323,8 +323,8 @@ Training loss (Focal CE) and the competition metric (asymmetric macro score) are
 
 | File | Description |
 |---|---|
-| `notebook.ipynb` | Full training pipeline (Steps 1-6) |
-| `sample_submission.csv` | Reference output format |
+| `22f3003274-Thoracic-Pathology-Detection-Model.ipynb` | Full training pipeline (Steps 1-6) |
+| `submission.csv` | Output predictions for the test set |
 | `README.md` | This file |
 
 ---
