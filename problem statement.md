@@ -178,29 +178,6 @@ dataset/
 
 ---
 
-## 7. Kaggle Competition Structure
-This assignment includes a Kaggle competition component where you must submit your model predictions.
-
-> [!WARNING]
-> **Important Submission Rules & Constraints:**
-> 1. **Notebook Naming**: Your Kaggle notebook must be named in the format `rollNumber-notebook-26T1` (e.g., `21f1006236-notebook-26T1`).
-> 2. **Sharing**: Share your Kaggle notebook with the username `avinashsingh913`, giving them **edit access** as a collaborator.
-> 3. **Team Name**: Your Kaggle team name **must** be your roll number. If it is not, you will not receive marks for your Kaggle score.
-
----
-
-## 8. Leaderboard System
-Kaggle uses two types of leaderboards:
-
-* **Public Leaderboard (65% of test data)**:
-  * Used for evaluation during the competition.
-  * Helps teams compare their progress with others.
-* **Private Leaderboard (35% of test data)**:
-  * Evaluated on the remaining 35% of the test set.
-  * Used for final rankings and grading after the competition ends.
-  * *This prevents teams from overfitting to the public leaderboard.*
-
----
 
 ## 9. Submission Format
 Students must submit a CSV file named exactly `submission.csv`. The format must match `sample_submission.csv` provided in Kaggle.
